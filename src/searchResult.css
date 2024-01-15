@@ -1,0 +1,17 @@
+.result-list{
+    width: 100%;
+    border-radius: 10px;
+    display: felx;
+    flex-direction: column;
+    background-color: rgb(255, 244, 240);
+    margin-top: 0.5rem;
+    max-height: 300px;
+    overflow-y: hidden;
+}
+.search-result{
+    padding: 10px 20px;
+    font-size: 1.75rem;
+}
+.search-result:hover{
+    background-color: rgb(71, 71, 71);
+}
